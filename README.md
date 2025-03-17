@@ -1,4 +1,4 @@
-# CORMAS-internship
+# Cormas Internship
 
 Jovan's internship at CIRAD, UMR SENS in Montpellier
 
