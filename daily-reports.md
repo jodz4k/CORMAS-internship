@@ -1,6 +1,8 @@
 # Daily Reports
 
 #### (Day 25) Friday, March 14, 2025
+  - Today, I worked on creating a UML diagram to provide a clearer overview of the existing code.
+  - My next step should be to expand the UML diagram as new parts of the code are added.
 
 #### (Day 26) Monday, March 17, 2025
 
