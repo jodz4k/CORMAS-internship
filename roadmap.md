@@ -1,18 +1,20 @@
 # Roadmap
 
-## Week 1 : September 30 - October 4
+## Week 1: February 10 - February 14
 
-- **Revisit Pharo syntax.** Complete ProfStef (in Playground: `ProfStef go`)
-- **Learn the basics of Spec.** Read first chapters of [Spec booklet](https://github.com/SquareBracketAssociates/BuildingApplicationWithSpec2/releases/download/latest/BuildingUIWithSpec.pdf)
-- **Learn to use Cormas.** Follow the [Robot-Forager Tutorial](https://cormas.org/#/robot-forager)
-- **Exercise.** Implement a calculator in Spec
+## Week 2: February 17 - February 21
 
-## Week 2 : October 7 - October 11
+## Week 3: February 24 - February 28
 
-## Week 3 : October 14 - October 18
+## Week 4: March 3 - March 7
 
-## Week 4 : October 21 - October 25
+## Week 5: March 10 - March 14
 
-## Week 5 : October 28 - November 1
+## Week 6: March 17 - March 21
 
-## Week 6 : November 4 - November 8
+## Week 7: March 24 - March 28
+
+## Week 8: March 31 - April 4
+
+## Week 9: April 7 - April 11
+
