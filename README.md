@@ -27,3 +27,20 @@ This approach stands out through its innovative and integrative nature, built up
 From a scientific perspective, this project advances participatory modeling tools by exploring **a new paradigm of human-machine collaboration**, where serious games become fully interactive models. From a technological perspective, it aligns with the growing trend of combining digital models with tangible interfaces, addressing the needs of researchers and practitioners in visualization, analysis, and facilitation.
 
 This innovative project places our team at the forefront of serious games in participatory modeling. It establishes a solid foundation for future collaborations and broader applications across various fields, including natural resource management, territorial planning, and participatory education.
+
+## Literature
+
+- Barreteau, O. (2003). The joint use of role-playing games and models regarding negotiation processes: Characterization of associations
+- Barreteau, O. et al. (2002). Le jeu de rôles à l'interface entre systèmes réel et virtuel pour la gestion de ressources renouvelables : Exemples d'application au Sénégal 
+- Blache, N. et al. (2023). Transcrire le modèle en jeu (Chapter 7 in "Jeux de plateau pour l agriculture et le paysage")
+- Duke, R. D. (1974). Towards a general theory of gaming
+- Farias, G. et al. (2019). Systematic review of natural resource management using multiagent systems and role-playing games
+- Guyot, P. and Honiden, S. (2006). Agent-based participatory simulations: Merging multi-agent systems and role-playing games
+- Klabbers, J. H. B. (2006). The magic circle: Principles of gaming and simulation 
+- Le Page, C. et al. (2016). Exploring how knowledge and communication influence natural resources management with ReHab
+- McGonigal, J. (2011). Reality is broken: Why games make us better and how they can change the world
+- Salen, K. and Zimmerman, E. (2003). Rules of play: Game design fundamentals
+- Szczepanska, T. et al. (2022). GAM on! Six ways to explore social complexity by combining games and agent-based models
+- Voinov, A. and Bousquet, F. (2010). Modelling with stakeholders
+- Voinov, A. et al. (2018). Tools and methods in participatory modelling: Selecting the right tool for the job
+- Voinov, A. et al. (2016). Modelling with stakeholders - Next generation
