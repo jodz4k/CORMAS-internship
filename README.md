@@ -37,6 +37,7 @@ This innovative project places our team at the forefront of serious games in par
 - Farias, G. et al. (2019). Systematic review of natural resource management using multiagent systems and role-playing games
 - Guyot, P. and Honiden, S. (2006). Agent-based participatory simulations: Merging multi-agent systems and role-playing games
 - Klabbers, J. H. B. (2006). The magic circle: Principles of gaming and simulation 
+- Le Page, C. et al. (2014). Models for sharing representations (Chapter in "Companion modelling: A participatory approach to support sustainable development")
 - Le Page, C. et al. (2016). Exploring how knowledge and communication influence natural resources management with ReHab
 - McGonigal, J. (2011). Reality is broken: Why games make us better and how they can change the world
 - Salen, K. and Zimmerman, E. (2003). Rules of play: Game design fundamentals
