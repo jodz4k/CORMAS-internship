@@ -5,9 +5,9 @@
   - My next step should be to expand the UML diagram as new parts of the code are added.
 
 #### (Day 26) Monday, March 17, 2025
-  - I finished UML diagram
-    
+  - I did not do anything
 #### (Day 27) Tuesday, March 18, 2025
+  - I finished UML diagram
 
 #### (Day 28) Wednesday, March 19, 2025
 
