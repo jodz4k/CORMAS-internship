@@ -1,12 +1,12 @@
 # Weekly Reports
 
 #### Week 5: March 10 - March 14
-This week things which were done are:
-	- Refactoring
-	- New agent PCParkManager
-	- changes in logic of other classes
-	- changes in tests
-	- UML 
+This week things which are done:
+	-Refactoring
+	-New agent PCParkManager
+	-changes in logic of other classes
+	-changes in tests
+	-UML 
 #### Week 6: March 17 - March 21
 
 #### Week 7: March 24 - March 28
