@@ -8,7 +8,9 @@
   - I did not do anything
 #### (Day 27) Tuesday, March 18, 2025
   - I finished UML diagram
-
+  - worked on CMDelay class
+  - changed the logic behind step method in PCModel class
+  - removed step in PCFamily
 #### (Day 28) Wednesday, March 19, 2025
 
 #### (Day 29) Thursday, March 20, 2025
