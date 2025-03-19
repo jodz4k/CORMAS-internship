@@ -12,7 +12,10 @@
   - changed the logic behind step method in PCModel class
   - removed step in PCFamily
 #### (Day 28) Wednesday, March 19, 2025
-
+  - added new classes PCDelay and PCDelayTest
+  - added new methods for PCDelay
+  - wrote idea of the test in PCDelayTest 
+  - updated UML 
 #### (Day 29) Thursday, March 20, 2025
 
 #### (Day 30) Friday, March 21, 2025
