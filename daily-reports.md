@@ -18,9 +18,11 @@
   - updated UML 
 #### (Day 29) Thursday, March 20, 2025
   - I was reading these two booklets:
-      Concurrent Programming in Pharo
-      Zinc: an industrial quality level
+    - Concurrent Programming in Pharo
+    - Zinc: an industrial quality level
 HTTP/S framework
+  - started writing GSOC proposal
+  - discussion for future plans and tasks
 #### (Day 30) Friday, March 21, 2025
 
 #### (Day 31) Monday, March 24, 2025
