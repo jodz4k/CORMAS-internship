@@ -17,7 +17,10 @@
   - wrote idea of the test in PCDelayTest 
   - updated UML 
 #### (Day 29) Thursday, March 20, 2025
-
+  - I was reading these two booklets:
+      Concurrent Programming in Pharo
+      Zinc: an industrial quality level
+HTTP/S framework
 #### (Day 30) Friday, March 21, 2025
 
 #### (Day 31) Monday, March 24, 2025
