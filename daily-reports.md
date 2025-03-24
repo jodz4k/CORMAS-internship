@@ -21,9 +21,12 @@
     - Concurrent Programming in Pharo
     - Zinc: an industrial quality level
 HTTP/S framework
+
+#### (Day 30) Friday, March 21, 2025
+  - Rereading of Zinc: an industrial quality level
+HTTP/S framework
   - started writing GSOC proposal
   - discussion for future plans and tasks
-#### (Day 30) Friday, March 21, 2025
 
 #### (Day 31) Monday, March 24, 2025
 
