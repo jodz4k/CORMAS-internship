@@ -29,7 +29,11 @@ HTTP/S framework
   - discussion for future plans and tasks
 
 #### (Day 31) Monday, March 24, 2025
-
+  - worked on GSOC proposal
+  - read more about serious games to deepen the understanding
+  - Read pharo enterprise booklet
+  - tried to implement html file to server
+    
 #### (Day 32) Tuesday, March 25, 2025
 
 #### (Day 33) Wednesday, March 26, 2025
