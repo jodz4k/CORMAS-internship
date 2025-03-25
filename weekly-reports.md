@@ -15,6 +15,21 @@
 	- Some of the test got refactored
 - Started working on UML class diagram
 #### Week 6: March 17 - March 21
+##### This week things which are done
+- I finished UML diagram
+- worked on CMDelay class
+- changed the logic behind step method in PCModel class
+- removed step in PCFamily
+- added new classes PCDelay and PCDelayTest
+- added new methods for PCDelay
+- wrote idea of the test in PCDelayTest
+- updated UML
+- I was reading these three booklets:
+	- Concurrent Programming in Pharo
+	- Zinc: an industrial quality level HTTP/S framework
+- Reread of Zinc: an industrial quality level HTTP/S framework
+- started writing GSOC proposal
+- we disscused about future plans and tasks
 
 #### Week 7: March 24 - March 28
 
