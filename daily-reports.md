@@ -44,6 +44,9 @@ HTTP/S framework
 #### (Day 33) Wednesday, March 26, 2025
   - did not do anything
 #### (Day 34) Thursday, March 27, 2025
+  - finished the first draft of GSoC application
+  - finished Cormas github documentation and made a pull request
+  - started resolving issues of cormas (GSoC and First issue tags)
 
 #### (Day 35) Friday, March 28, 2025
 
