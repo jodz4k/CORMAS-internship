@@ -35,9 +35,14 @@ HTTP/S framework
   - tried to implement html file to server
     
 #### (Day 32) Tuesday, March 25, 2025
-
+  - worked on GSOC proposal
+  - made a plan for future tasks
+      - research paper
+      - documentation writing
+      - issues of Cormas
+        
 #### (Day 33) Wednesday, March 26, 2025
-
+  - did not do anything
 #### (Day 34) Thursday, March 27, 2025
 
 #### (Day 35) Friday, March 28, 2025
