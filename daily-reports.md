@@ -49,10 +49,10 @@ HTTP/S framework
   - started resolving issues of cormas (GSoC and First issue tags)
 
 #### (Day 35) Friday, March 28, 2025
-
-#### (Day 36) Monday, March 31, 2025
   - Texstudio & MikTex Installation
   - second issue started
+#### (Day 36) Monday, March 31, 2025
+  - fixing the GSoC proposal
 #### (Day 37) Tuesday, April 1, 2025
 
 #### (Day 38) Wednesday, April 2, 2025
