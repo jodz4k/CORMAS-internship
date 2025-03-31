@@ -53,6 +53,7 @@ HTTP/S framework
   - second issue started
 #### (Day 36) Monday, March 31, 2025
   - fixing the GSoC proposal
+  - read documentation how to contribute
 #### (Day 37) Tuesday, April 1, 2025
 
 #### (Day 38) Wednesday, April 2, 2025
