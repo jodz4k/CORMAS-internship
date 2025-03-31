@@ -32,7 +32,20 @@
 - we disscused about future plans and tasks
 
 #### Week 7: March 24 - March 28
-
+- worked on GSOC proposal
+- read more about serious games to deepen the understanding
+- Read pharo enterprise booklet
+- tried to implement html file to server
+- worked on GSOC proposal
+- made a plan for future tasks
+- research paper
+- documentation writing
+- issues of Cormas
+- finished the first draft of GSoC application
+- finished Cormas github documentation and made a pull request
+- started resolving issues of cormas (GSoC and First issue tags)
+- Texstudio & MikTex Installation
+- second issue started
 #### Week 8: March 31 - April 4
 
 #### Week 9: April 7 - April 11
