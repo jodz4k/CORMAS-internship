@@ -56,13 +56,13 @@ HTTP/S framework
   - read documentation how to contribute
   - read about command pattern
 #### (Day 37) Tuesday, April 1, 2025
+  - did not do anything
+#### (Day 38) Wednesday, April 2, 2025
   - working on GSoC proposal
   - finished second draft of proposal
-#### (Day 38) Wednesday, April 2, 2025
-  - solving issues from issue tracker
 
 #### (Day 39) Thursday, April 3, 2025
-
+  - solving issues from issue tracker
 #### (Day 40) Friday, April 4, 2025
 
 #### (Day 41) Monday, April 7, 2025
